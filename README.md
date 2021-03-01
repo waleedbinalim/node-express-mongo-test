@@ -17,5 +17,5 @@ The following repository is me testing out NodeJS, Express and Mongo Atlas Datab
 - Express Router and MVC  
 
 ### Important:  
-To test out yourself, you'll need to create your own Cluster and Database on Mongo Atlas. It's a fairly simple process, once you get the connection string just past in the dbURL constant in app.js file and you're set to go
+To test out yourself, you'll need to create your own Cluster and Database on Mongo Atlas. It's a fairly simple process, once you get the connection string, just paste in the dbURL constant declared in the app.js file and you're set to go
 
